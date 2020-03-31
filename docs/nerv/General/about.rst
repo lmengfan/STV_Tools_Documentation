@@ -2,4 +2,9 @@ About
 *********************
 .. figure:: _static\About.png
     :align: left
-GENERIC
+
+Click to see licence, help, author information
+Project
+----------
+Sample
+~~~~~~~~~
