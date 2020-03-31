@@ -3,8 +3,9 @@ BIM Group Tools
 
 GENERIC
 
+
 .. toctree::
    :maxdepth: 1
-   :name: nerv-bim_group_tools
+   :name: toc-bim
 
    open file
