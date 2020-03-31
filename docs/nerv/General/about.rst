@@ -1,6 +1,6 @@
 About
 *********************
-GENERIC
 .. figure:: _static\About.pushbutton.png
-    :align: 
-About
+    :align: left
+
+Click to see licence, help, author information
