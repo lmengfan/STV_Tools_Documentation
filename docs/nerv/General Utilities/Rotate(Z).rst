@@ -1,6 +1,7 @@
 Rotate(Z)
 *********************
-GENERIC
+
 .. figure:: _static\Rotate(Z).png
-    :align: 
+    :align: left
+
 Rotate(Z)

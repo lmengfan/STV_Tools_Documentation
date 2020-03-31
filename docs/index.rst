@@ -44,3 +44,17 @@ need to know for using nerv plugin.
     nerv/View & Sheet/index
     nerv/Warnings/index
     nerv/Winston's Lab/index
+
+    nerv/BIM Group Tools/index.rst
+    nerv/Clash Detection/index.rst
+    nerv/EWR QAQC/index.rst
+    nerv/External Batch/index.rst
+    nerv/General Utilities/index.rst
+    nerv/General/index.rst
+    nerv/MEP Tools/index.rst
+    nerv/Navis Data Import/index.rst
+    nerv/Reset/index.rst
+    nerv/Sheets and Views/index.rst
+    nerv/View & Sheet/index.rst
+    nerv/Warnings/index.rst
+    nerv/Winston's Lab/index.rst

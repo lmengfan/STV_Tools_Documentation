@@ -1,6 +1,7 @@
 SetFile
 *********************
-GENERIC
+
 .. figure:: _static\SetFile.png
-    :align: 
+    :align: left
+
 SetFile

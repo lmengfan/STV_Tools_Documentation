@@ -1,6 +1,7 @@
 Rotate Fitting
 *********************
-GENERIC
+
 .. figure:: _static\Rotate Fitting.png
-    :align: 
+    :align: left
+
 Rotate Fitting

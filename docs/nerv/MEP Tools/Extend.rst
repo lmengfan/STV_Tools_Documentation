@@ -1,6 +1,7 @@
 Extend
 *********************
-GENERIC
+
 .. figure:: _static\Extend.png
-    :align: 
+    :align: left
+
 Extend
