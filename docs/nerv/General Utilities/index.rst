@@ -2,5 +2,5 @@ General Utilities
 *********************
 .. toctree::
    :maxdepth: 1
-   :name: general_utilities
+   :name: nerv-general_utilities
 

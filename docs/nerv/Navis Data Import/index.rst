@@ -1,7 +1,7 @@
-Electrical
+Navis Data
 *********************
 
 .. toctree::
    :maxdepth: 1
-   :name: toc-about
+   :name: nerv-navis_data
 

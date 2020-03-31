@@ -1,7 +1,7 @@
-Electrical
+Sheets and Views
 *********************
 
 .. toctree::
    :maxdepth: 1
-   :name: nerv-electrical
+   :name: nerv-sheets&views
 

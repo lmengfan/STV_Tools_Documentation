@@ -1,7 +1,7 @@
-Electrical
+MEP Tools
 *********************
 
 .. toctree::
    :maxdepth: 1
-   :name: toc-about
+   :name: nerv-mep_tools
 

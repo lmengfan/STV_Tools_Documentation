@@ -1,7 +1,7 @@
-Electrical
+External Batch
 *********************
 
 .. toctree::
    :maxdepth: 1
-   :name: toc-about
+   :name: nerv_external_batch
 

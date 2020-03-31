@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 1
-   :name: about
+   :name: nerv-about
 
    introduction.rst
    faq.rst

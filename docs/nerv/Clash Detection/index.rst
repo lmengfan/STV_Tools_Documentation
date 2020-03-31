@@ -2,5 +2,5 @@ Clash Detection
 *********************
 .. toctree::
    :maxdepth: 1
-   :name: toc-about
+   :name: nerv-clash_detection
 

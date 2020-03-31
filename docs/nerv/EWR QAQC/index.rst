@@ -1,7 +1,7 @@
-Electrical
+EWR QAQC
 *********************
 
 .. toctree::
    :maxdepth: 1
-   :name: toc-about
+   :name: nerv_ewr_qaqc
 
