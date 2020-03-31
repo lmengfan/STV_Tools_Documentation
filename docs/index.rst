@@ -31,16 +31,16 @@ need to know for using nerv plugin.
     :hidden:
     :caption: nerv module
 
-    nerv/BIM Group Tools/index.rst
-    nerv/Clash Detection/index.rst
-    nerv/EWR QAQC/index.rst
-    nerv/External Batch/index.rst
-    nerv/General Utilities/index.rst
-    nerv/General/index.rst
-    nerv/MEP Tools/index.rst
-    nerv/Navis Data Import/index.rst
-    nerv/Reset/index.rst
-    nerv/Sheets and Views/index.rst
-    nerv/View & Sheet/index.rst
-    nerv/Warnings/index.rst
-    nerv/Winston's Lab/index.rst
+    nerv/BIM Group Tools/index
+    nerv/Clash Detection/index
+    nerv/EWR QAQC/index
+    nerv/External Batch/index
+    nerv/General Utilities/index
+    nerv/General/index
+    nerv/MEP Tools/index
+    nerv/Navis Data Import/index
+    nerv/Reset/index
+    nerv/Sheets and Views/index
+    nerv/View & Sheet/index
+    nerv/Warnings/index
+    nerv/Winston's Lab/index
