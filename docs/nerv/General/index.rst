@@ -9,3 +9,4 @@ General tab provides a overview for the program and help links
    :name: nerv-about
 
     about
+    About.rst

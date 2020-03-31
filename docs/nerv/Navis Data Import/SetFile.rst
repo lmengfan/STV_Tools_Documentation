@@ -1,6 +1,6 @@
 SetFile
 *********************
 GENERIC
-.. figure:: _static\SetFile.pushbutton.png
+.. figure:: _static\SetFile.png
     :align: 
 SetFile
