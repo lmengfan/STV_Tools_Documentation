@@ -1,6 +1,6 @@
 Rotate(Z)
 *********************
 GENERIC
-.. figure:: {0}
+.. figure:: _static\Rotate(Z).pushbutton.png
     :align: 
 Rotate(Z)

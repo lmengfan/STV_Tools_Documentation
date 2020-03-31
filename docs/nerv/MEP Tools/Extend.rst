@@ -1,6 +1,6 @@
 Extend
 *********************
 GENERIC
-.. figure:: {0}
+.. figure:: _static\Extend.pushbutton.png
     :align: 
 Extend

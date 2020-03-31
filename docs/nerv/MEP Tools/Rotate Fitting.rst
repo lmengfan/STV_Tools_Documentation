@@ -1,6 +1,6 @@
 Rotate Fitting
 *********************
 GENERIC
-.. figure:: {0}
+.. figure:: _static\Rotate Fitting.pushbutton.png
     :align: 
 Rotate Fitting
