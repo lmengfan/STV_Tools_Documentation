@@ -4,4 +4,4 @@ About
 .. figure:: _static/about.png
     :align: left
 
-    about
+Click to see licence, help, author information
