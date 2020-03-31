@@ -1,7 +1,7 @@
 About
 *********************
 
-.. figure:: _static\About.png
+.. figure:: _static/About.png
     :align: left
 
 About

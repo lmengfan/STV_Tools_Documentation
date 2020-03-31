@@ -1,7 +1,7 @@
 SetFile
 *********************
 
-.. figure:: _static\SetFile.png
+.. figure:: _static/SetFile.png
     :align: left
 
 SetFile
