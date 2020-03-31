@@ -7,4 +7,4 @@ GENERIC
    :maxdepth: 1
    :name: nerv-bim_group_tools
 
-    Open File
+    open file

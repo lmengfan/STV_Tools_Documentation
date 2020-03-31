@@ -1,7 +1,7 @@
 Open File
 *********************
 
-.. figure:: _static/Open File.png
+.. figure:: _static/open file.png
     :align: left
 
-Open File
+open file

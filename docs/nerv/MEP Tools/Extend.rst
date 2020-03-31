@@ -1,7 +1,7 @@
 Extend
 *********************
 
-.. figure:: _static/Extend.png
+.. figure:: _static/extend.png
     :align: left
 
-Extend
+extend

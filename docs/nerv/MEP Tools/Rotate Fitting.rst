@@ -1,7 +1,7 @@
 Rotate Fitting
 *********************
 
-.. figure:: _static/Rotate Fitting.png
+.. figure:: _static/rotate fitting.png
     :align: left
 
-Rotate Fitting
+rotate fitting
